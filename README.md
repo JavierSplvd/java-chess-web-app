@@ -1,3 +1,7 @@
+# Concepts
+
+The chess engine uses the [Forsyth–Edwards Notation](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation).
+
 # Goals
 
 1. Create a GET endpoint that returns the best possible movement given a board state. `/move/{board_state}`
